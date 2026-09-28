@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper it implements and give the repository address."
+type: software
+title: "blasius-gaussian-approximation: closed-form approximation to the Blasius boundary layer"
+authors:
+  - family-names: Moeini
+    given-names: Masoud
+    affiliation: "Department of Atmospheric and Oceanic Sciences, McGill University, Montréal, Canada"
+version: 1.0.0
+date-released: "2026-09-28"
+license: MIT
+repository-code: "https://github.com/USERNAME/blasius-gaussian-approximation"
+keywords:
+  - Blasius equation
+  - laminar boundary layer
+  - semi-analytic approximation
+  - boundary layer thickness
+  - thermal radiation
+preferred-citation:
+  type: article
+  title: "New Perspectives on the Laminar Boundary Layer Physics in a Polarized Pressure Field with Temperature Gradient: an Analytical Approximation to Blasius Equation"
+  authors:
+    - family-names: Moeini
+      given-names: Masoud
+    - family-names: Chamani
+      given-names: M. R.
+  journal: "Journal of Applied Fluid Mechanics"
+  volume: 10
+  issue: 4
+  start: 1071
+  end: 1077
+  year: 2017
+  doi: 10.18869/acadpub.jafm.73.241.27544
